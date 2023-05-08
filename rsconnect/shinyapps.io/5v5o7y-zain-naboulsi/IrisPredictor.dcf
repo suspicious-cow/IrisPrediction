@@ -1,0 +1,13 @@
+name: IrisPredictor
+title: IrisPredictor
+username:
+account: 5v5o7y-zain-naboulsi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9052511
+bundleId: 7187426
+url: https://5v5o7y-zain-naboulsi.shinyapps.io/IrisPredictor/
+when: 1683523456.25072
+lastSyncTime: 1683523456.25074
+asMultiple: FALSE
+asStatic: FALSE

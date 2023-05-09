@@ -1,0 +1,43 @@
+---
+title: "Iris Predictor - A Simple and Interactive Flower Classifier"
+author: "Zain Naboulsi"
+date: "2023-05-08"
+output: 
+  ioslides_presentation:
+    css: floral_theme.css
+---
+
+## Problem & Solution
+
+**Problem**: Machine learning algorithms can be challenging for non-experts to understand and apply.
+
+**Solution**: Our Shiny app simplifies the process with a user-friendly, interactive interface for predicting iris species based on user inputs.
+
+## Key Features and Use Cases
+
+- **User-friendly interface**: Designed for everyone, no prerequisite knowledge required.
+- **Interactive input fields**: Input sepal and petal measurements to predict the iris species.
+- **Effective prediction algorithm**: Employs a simple algorithm (k-nearest neighbors) for accurate predictions.
+- **Use Cases**: Ideal for students, hobbyists, and educators.
+
+## Example Sepal Length Analysis
+
+```{r}
+# Load the iris dataset
+data(iris)
+
+# Calculate the mean and standard deviation of sepal length
+mean_sepal_length <- mean(iris$Sepal.Length)
+sd_sepal_length <- sd(iris$Sepal.Length)
+
+# Display the results
+mean_sepal_length
+sd_sepal_length
+```
+
+## Conclusion & Call-to-Action
+
+**Conclusion**: Iris Predictor provides a user-friendly, engaging way for users to understand and apply machine learning algorithms.
+
+**Call-to-Action**: Try the app, provide feedback, and share it with your network!
+

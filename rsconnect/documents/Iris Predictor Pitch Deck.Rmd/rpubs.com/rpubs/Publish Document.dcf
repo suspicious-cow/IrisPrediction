@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/1039330/0262505211be48cc88c811163bf1485d
+bundleId: https://api.rpubs.com/api/v1/document/1039330/0262505211be48cc88c811163bf1485d
+url: http://rpubs.com/znaboulsi/1039330
+when: 1683567508.29817
+lastSyncTime: 1683567508.29818
